@@ -1,0 +1,12 @@
+<!-- views/layout.etlua -->
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="refresh" content="60" >
+	<title>#HACKFFM Frankfurt Map Thingo</title>
+</head>
+<body>
+	<% content_for("inner") %>
+</body>
+</html>

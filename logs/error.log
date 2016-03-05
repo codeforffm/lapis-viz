@@ -1,0 +1,9 @@
+2016/03/05 10:45:12 [alert] 2972#0: lua_code_cache is off; this will hurt performance in /home/abregado/repos/hackfrankfurt/nginx.conf.compiled:16
+2016/03/05 17:57:22 [alert] 6795#0: lua_code_cache is off; this will hurt performance in /home/abregado/repos/hackfrankfurt/nginx.conf.compiled:16
+2016/03/05 17:57:22 [emerg] 6795#0: unknown "_url" variable
+2016/03/05 18:00:06 [alert] 6825#0: lua_code_cache is off; this will hurt performance in /home/abregado/repos/hackfrankfurt/nginx.conf.compiled:16
+2016/03/05 18:00:06 [emerg] 6825#0: unknown "_url" variable
+2016/03/05 18:01:26 [alert] 6849#0: lua_code_cache is off; this will hurt performance in /home/abregado/repos/hackfrankfurt/nginx.conf.compiled:16
+2016/03/05 20:03:15 [alert] 7586#0: lua_code_cache is off; this will hurt performance in /home/abregado/repos/hackfrankfurt/nginx.conf.compiled:16
+2016/03/05 20:03:59 [alert] 7608#0: lua_code_cache is off; this will hurt performance in /home/abregado/repos/hackfrankfurt/nginx.conf.compiled:16
+2016/03/05 20:30:17 [alert] 8187#0: lua_code_cache is off; this will hurt performance in /home/abregado/repos/hackfrankfurt/nginx.conf.compiled:16

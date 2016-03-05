@@ -1,0 +1,34 @@
+<h2>Airbnb Listings Frankfurt</h2>
+<p>Circles show geo locations of Airbnb listings. Number of listings in a Stadtteil is shown by 'blueness'. Radius of each circle shows frequency of being returned in a search result.</p>
+<p>It is unknown why some listings are served more often.</p>
+<svg width="2000" height="800">
+
+
+	<% for i,teil in pairs(objects) do %>
+	<text x="10" y='<%=i*18%>' fill="<%=teil.color%>"><%=teil.hits%>: <%=teil.name%></text>
+	<%end%>
+	
+	<% for i,shape in pairs(objects) do %>
+	  <polygon points="
+		<%for j,point in pairs(shape.points) do%>
+			<%=point.x%>,<%=point.y%>
+		<%end%>
+	  " id='<%=shape.name%>' class='<%=shape.teiltype%>' style="fill:<%=shape.color%>;stroke:#6C3D1D;stroke-width:1;fill-rule:evenodd;" />
+	<%end%>
+		
+	<% for i,point in ipairs(points) do %>
+		<circle cx="<%=point.x%>" cy="<%=point.y%>" r="<%=point.radius%>" stroke="black" stroke-width="1" fill="<%=point.color%>" />
+	<%end%>
+</svg>
+
+
+<style>
+	body {
+		font-family:'Arial';
+		font-size:1.5em;
+	}
+	
+	text {
+		
+	}
+</style>
