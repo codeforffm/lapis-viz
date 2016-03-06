@@ -7,3 +7,7 @@
 2016/03/05 20:03:15 [alert] 7586#0: lua_code_cache is off; this will hurt performance in /home/abregado/repos/hackfrankfurt/nginx.conf.compiled:16
 2016/03/05 20:03:59 [alert] 7608#0: lua_code_cache is off; this will hurt performance in /home/abregado/repos/hackfrankfurt/nginx.conf.compiled:16
 2016/03/05 20:30:17 [alert] 8187#0: lua_code_cache is off; this will hurt performance in /home/abregado/repos/hackfrankfurt/nginx.conf.compiled:16
+2016/03/05 21:46:16 [alert] 8726#0: lua_code_cache is off; this will hurt performance in /home/abregado/repos/lapis-viz/nginx.conf.compiled:16
+2016/03/06 10:35:46 [alert] 2556#0: lua_code_cache is off; this will hurt performance in /home/abregado/repos/lapis-viz/nginx.conf.compiled:16
+2016/03/06 14:04:38 [alert] 3759#0: lua_code_cache is off; this will hurt performance in /home/abregado/repos/lapis-viz/nginx.conf.compiled:16
+2016/03/06 14:08:26 [alert] 3787#0: lua_code_cache is off; this will hurt performance in /home/abregado/repos/lapis-viz/nginx.conf.compiled:16

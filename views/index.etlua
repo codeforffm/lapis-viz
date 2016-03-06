@@ -1,6 +1,8 @@
-<h2>Airbnb Listings Frankfurt</h2>
-<p>Circles show geo locations of Airbnb listings. Number of listings in a Stadtteil is shown by 'blueness'. Radius of each circle shows frequency of being returned in a search result.</p>
-<p>It is unknown why some listings are served more often.</p>
+<h2><%=heading%></h2>
+<p><%=text%></p>
+<input type="range" id="chanceSlider" class="vHorizon" min="0" max="6" step="1" style="width: 80%;">
+
+	
 <svg width="2000" height="800">
 
 
@@ -13,11 +15,11 @@
 		<%for j,point in pairs(shape.points) do%>
 			<%=point.x%>,<%=point.y%>
 		<%end%>
-	  " id='<%=shape.name%>' class='<%=shape.teiltype%>' style="fill:<%=shape.color%>;stroke:#6C3D1D;stroke-width:1;fill-rule:evenodd;" />
+	  " id='<%=shape.name%>-polygon' class='polygon' style="fill:<%=shape.color%>;stroke:#6C3D1D;stroke-width:1;fill-rule:evenodd;" />
 	<%end%>
 		
 	<% for i,point in ipairs(points) do %>
-		<circle cx="<%=point.x%>" cy="<%=point.y%>" r="<%=point.radius%>" stroke="black" stroke-width="1" fill="<%=point.color%>" />
+		<circle class='datapoint' basesize="<%=point.radius%>" cx="<%=point.x%>" cy="<%=point.y%>" r="<%=point.radius%>" stroke="black" stroke-width="1" fill="<%=point.color%>" />
 	<%end%>
 </svg>
 
@@ -32,3 +34,28 @@
 		
 	}
 </style>
+
+<script>
+$( document ).ready(function() {
+  // Handler for .ready() called.
+  
+})
+
+
+
+</script>
+
+<script>
+	$("#chanceSlider").change(function () {
+		var value = parseInt(this.value);
+		$('.datapoint').each(function(index) {
+			var rad = parseInt($(this).attr('basesize'));
+			if (rad < value) {
+				$(this).hide();
+			} else {
+				$(this).show();
+			};
+		})
+	});
+
+</script>

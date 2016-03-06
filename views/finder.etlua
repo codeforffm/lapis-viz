@@ -1,0 +1,24 @@
+
+<form id="locate-form" method="post" action="/finder">
+	<h2><%=heading%></h2>
+	<p><%=text%></p>
+	<input type='text' id='csvstring' name='csvstring'>
+	<input id="go_button" class="button_text" type="submit" name="submit" value="Find 'em" />
+</form>
+
+<table>
+	<tr>
+		<td>Location</td>
+		<td>Long</td>
+		<td>Lat</td>
+	</tr>
+	
+	<%for i,point in pairs(results) do%>
+	<tr>
+		<td><%=point.teil%></td>
+		<td><%=point.ax%></td>
+		<td><%=point.ay%></td>
+	</tr>
+	<%end%>
+</table>
+
