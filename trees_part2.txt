@@ -1,0 +1,992 @@
+Haardtwaldplatz Spielplatz Nr. 78;50.086513;8.636264
+Heinrich-Wilhelm-Roemer-Anlage;50.15298955;8.685687095
+H-P-Mueller-Platz;50.1616172;8.6485607
+KGV Nieder-Erlenbach Gruenstreifen;50.203134;8.702872
+Robert-Bunsen-Strasse;50.1062647;8.5515348
+Schmalkaldener Strasse/ A66;50.113012;8.518804
+Werner-Bockelmannstrasse an der Eisenbahn;50.103838;8.581296
+Eytelweinstrasse;50.1101989;8.7068381
+Philipp-Fleck-Strasse;50.1119014;8.6330953
+AltkÃ¶nigstr.;50.120926;8.665486
+Vogelsbergstrasse;50.124727;8.694593
+Diesterwegstrasse;50.100934;8.683077
+Johanna-Melber-Weg;50.1001372;8.6955354
+Karl-Blum-Allee;50.1095401;8.5508154
+KGV Am Buegel;50.19502975;8.66279827
+Schneckenhofstrasse;50.1005026;8.676189
+Kaiserstrasse;50.108981;8.67074
+Rottweiler Strasse;50.1018676;8.6618305
+In der unteren Lachenwies;1;1
+Konrad-Duden-Weg;50.1900508;8.6687928
+Im Sauren;50.3443945;8.1025764
+Laubestrasse;50.103401;8.685105
+Schlitzer Strasse;50.5648847;9.659165
+Heinrich-Hardt-Strasse;50.1034953;8.5985369
+Gustav-Freytag-Strasse;50.962536;11.0230217
+Westendplatz;50.1134591;8.6622831
+Porthstrasse;50.1431925;8.6841605
+Telemannstrasse;50.120794;8.669552
+Zeilweg;50.207841;8.601882446
+Bertramstrasse;50.136213;8.675035
+An der Schwanenwiese;50.110922;8.682127
+Haardtwaldplatz;50.0861834;8.6365131
+Wiesenhüttenplatz;50.1054814;8.666528
+Gerhart-Hauptmann-Ring vor Hausnummer 198-210;50.165272;8.614428
+A Karmeliterkloster Innenhof;50.109013;8.678817
+A Vilbeler Landstr. Judenborn;50.146107;8.748977
+Burgstrasse;50.126469;8.701694
+Deutschordenshaus;50.106652;8.688574814
+Im Waldfeld;50.1363585;8.6225629
+Jaspertstrasse;50.1510659;8.6926119
+Konrad-Brosswitz-Strasse;50.1260047;8.6408725
+Solmsstrasse;50.1187609;8.6388842
+Waldschulstrasse;50.0998523;8.6037843
+Haingrabenstrasse;50.152306;8.6223798
+Berkersheimer Weg Gruenanlage;50.16641;8.672275
+Dantestrasse;50.11819;8.653999
+A Am Martinszehnten Strassengruen;50.18885;8.651918
+An der Litzelwiese;50.1399725;8.6206852
+Durchgang Marie-Curie-Strasse/Olof-Palme-Strasse;50.172636;8.63825
+Eduard-Bernstein Weg Tiefgarage 36 a;50.164606;8.622747
+Grauer Stein;50.0138193;9.1587068
+Kauber Weg Ecke Oestricher Weg;50.082839;8.569814
+Nusszeil;50.1594364;8.6563614
+Waldfriedstrasse - Spielplatz;50.07711;8.646526
+Nonnenpfad;50.0993874;8.7275992
+Ackermannstrasse;50.1010322;8.6252843
+Adalbertstrasse Kinderspielplatz;50.119532;8.645856
+Gerhart-Hauptmann-Ring Tiefgarage 28 a;50.162594;8.617076
+Heussenstammstrasse;50.1488097;8.6742116
+Hoechster-Farben-Strasse Leuna-Kreisel bis Kreisel Sindlingen;50.085989;8.51465
+Joachim-Becher-Strasse;50.1342796;8.6630097
+Sieringstrasse;50.1107074;8.5434094
+Tilly-Edinger-Platz;50.1167251;8.648517237
+Dunantring;50.115399;8.5570039
+A Weseler Werft;50.1080116;8.697832443
+Duerkheimer Strasse;50.0976983;8.574427
+Duisbergstrasse Spielpatz;50.132908;8.670764
+Friedensstrasse;50.119847;8.82501
+Grosser Hasenpfad;50.0959621;8.6864111
+Haeuser Gasse;50.1242696;8.6354285
+Jean-Monet-Strasse;50.14723;8.678967
+Jungmannstrasse;50.0824162;14.4223228
+Marie-Luise-Kaschnitz-Strasse;50.1674571;8.6159978
+Oberfeldstrasse;50.155963;8.625418
+Platenstrasse Bolzplatz;50.139199;8.65881
+Reichsforststrasse;50.0779776;8.6496937
+Schaumburger Strasse 69;50.11839;8.56107
+Weissadlergasse;50.1116073;8.678351
+Berkersheimer Hohl;50.1723504;8.6983207
+Ernst-Kahn Strasse Tiefgarage 3 a;50.11839;8.56107
+Hammarskjoeldring Tiefgarage 13;50.162787;8.628709
+Niedwiesenstrasse;50.157838;8.6523574
+Heidelbachstrasse;50.1253817;8.7130876
+A Wetteraustrasse (Spielplatz);50.131288;8.701555
+August-Siebert-Strasse;50.1258612;8.663987
+Deutschordenstrasse;50.131288;8.701555
+Fliederweg;50.090827;8.652093
+Wilhelm-Busch-Strasse;50.090827;8.652093
+Bleidenstrasse;50.1125866;8.6801195
+Zum Eiskeller;50.0782764;8.6024194
+A Walter-Hesselbach-Strasse Spielplatz 2;50.142755;8.699982
+Appelsgasse Nord (Spielplatz Nr. 129);50.124215;8.638566
+Ben-Gurion-Ring an der Autobahnbruecke;50.188819;8.661582
+Kalbacher Hauptstrasse Verkehrsgruen;50.187378;8.646066
+Burglehen;50.1218563;8.7718833
+Parlamentsstrasse;50.1211572;8.7162171
+Schiesshüttenstrasse;50.1209456;8.7712511
+Raimundstrasse;50.141063;8.66043
+Ruprechtstrasse;50.1224644;8.712667
+Neuwiesenstrasse;50.079477;8.651304
+Schottener Strasse;50.5419477;8.9956911
+Silostrasse;50.1003546;8.5267836
+Rossdorfer Str.;50.7856316;8.8355803
+Würzburger Strasse;50.8397455;12.9443718
+Mannheimer Strasse;50.103561;8.658462
+Schoenstrasse;50.102317;8.657562
+Oberwiesenstrasse Mulan-Spielplatz;50.158471;8.692558
+Am Alten Weg/ Alt Erlenbach;50.120251;8.813927
+Bockenheimer Warte;50.12005835;8.65077219
+Lortzingstrasse;50.127163;8.690188
+Griesheimer Stadtweg;50.0908095;8.6110471
+Lenaustrasse;50.125795;8.689642
+Alt Eschersheim;50.160377;8.655376
+Richard-Weidlich-( Strasse)-Platz;50.087929;8.511457
+Heimchenweg;50.105464;8.533444
+Battonstrasse;50.11269;8.6895
+Bleichstrasse;50.118018;8.684215
+Taubenstrasse;50.116481;8.678067
+Peter-Bied-Strasse;50.104993;8.5390598
+Martin-May-Strasse;50.102507;8.6893973
+Comeniusstrasse;50.130947;8.705488
+Belchenstrasse;50.0866333;8.6455566
+Humperdinckstrasse;50.088754;8.664417
+Alt Bornheim;50.128628;8.7111922
+A Wickenweg Spielplatz;50.167364;8.67349
+A WilhelmshÃ¶her Strasse;50.14425;8.726692
+An der Marienkirche;50.143117;8.723614
+A Obermainstrasse Spielplatz;50.109848;8.696081
+A Vilbeler Landstr. BÃ¶schung;50.146107;8.748977
+Bergesgrundweg;50.0927363;8.7002332
+Bildaeckerstrasse;50.098947;8.574891
+Bornheimer Landstrasse;50.1225898;8.6949935
+Hausen Alter Friedhof und Ehrenmal;50.134947;8.627002
+Hoechster Farbenstrasse im Kreuzungsbereich Leunastrasse;50.085989;8.51465
+Josephskirchstrasse;50.939199;7.0036491
+Linnestrasse;50.12185;8.707359
+Saalburgstrasse;50.1263393;8.7080784
+Taunustor;50.1108849;8.6723363
+Wartburgstrasse;50.9614855;11.0030466
+Am Herrenhof;50.1726459;8.6957784
+Hausener Weg;50.1318914;8.6186224
+Louis-Pasteur-Strasse Spielplatz;50.1684764;8.637759328
+Alte Stadtbibliothek;50.1094546;8.6931081
+Am Birnbaeumchen;50.9497511;7.5535095
+Auf der Weide (ehem. Kirschenallee);50.142289;8.509905
+Erlenbacher Stadtweg Laermschutzwall;50.188367;8.691793
+Hornauer Strasse;50.1051675;8.6286828
+Konrad-Hoenen-Weg;50.1522037;8.6914717
+Neebstrasse;50.1279772;8.7068984
+Nidda Im mittleren Sand;50.109694;8.569384
+Parlamentsplatz;50.120229;8.714386501
+Roedelheimer Landstrasse hinter Hausnummer 90 bis 124;50.121344;8.626454
+Spitzenstrasse;50.184332;8.686702
+Wolfsgangstrasse;50.1252495;8.6816139
+Bornweg;50.200369;8.710507
+Loewengasse  ;50.127938;8.714325
+Niederurseler Landstrasse Verkehrsgruen;50.165072;8.627379
+Jakob-Carl-Junior-Strasse;50.1186971;8.7054496
+Graebestrasse;50.1498612;8.6227786
+Tischbeinstrasse;50.100395;8.674767
+Am Kalten Berg Buswendeschleife;50.171126;8.698371
+Berkersheimer Weg A661;50.16641;8.672275
+Langenhainer Strasse;50.1032432;8.628242
+Max-Eyth-Strasse;50.123323;8.76082
+Dielmannstrasse;50.0977666;8.6991224
+Justinuskirchgarten;50.100741;8.544096
+Schwarzer Platz;50.16498185;8.688775708
+Zur Untermühle;50.184038;8.6941384
+Theodor-Fischer-Weg;50.1418563;8.6050711
+Kochstrasse;50.100603;8.71857
+A Camberger Brücke;50.101054;8.647485
+Alzeyer Strasse und  ;50.0966592;8.5750951
+Auf dem Muehlberg/Breulsweg;50.100524;8.700095
+Bischofsweg (B3)P.-pl.;50.082531;8.688378
+Der Mittlere Sand;50.6920333;12.5207805
+Dottenfeldstrasse;50.1192112;8.5675316
+Hammarskjoeldring Tiefgarage 9 a;50.110922;8.682127
+Harkortstrasse;50.128458;8.739601
+Im Sechsholder Garagen;50.10257;8.573882
+Kandelstrasse;50.0851693;8.6434754
+Koeppler-Hoefchen;50.111754;8.686282
+Lerchesberg;50.0831728;8.6809907
+Nied Kerbeplatz;50.10631;8.576835
+Nied Sued Bolzplatz;50.10631;8.576835
+Sausee;50.138897;8.728049
+Scheffelstrasse;50.8020271;12.9046537
+Usinger Strasse;50.3633046;8.7315853
+Werner-Bockelmannstrasse oestlich;50.103838;8.581296
+Zum Rebstockbad;50.1101329;8.6217384
+Bechtenwaldstrasse;50.0971074;8.4980059
+Berkersheimer Weg Ami-Spielplatz;50.16641;8.672275
+VSG Flur 32 Niederursel;50.165925;8.621594
+Alte Mainzer Gasse;50.1091149;8.6798545
+Auf der Insel;50.122703;8.613704
+RÃ¶merberg;50.110339;8.68205
+A Petterweilstrasse;50.1273575;8.7049848
+An der Lühe;50.1376133;8.6220059
+Friedrich-List-Strasse;50.9664811;11.0367346
+Heilmannstrasse Tiefgarage 34;50.156319;8.624696
+Im Rosentraeger;50.1539081;8.7431717
+Melchiorstrasse;50.1001749;8.5460594
+Neue Schlesinger Gasse;50.112613;8.672529
+Petersstrasse;50.11886;8.685276
+Schweinfurter Weg;50.0931672;8.6946063
+Fritz-Tarnow-Strasse;50.1425636;8.6698049
+Gebeschusstrasse;50.102743;8.5372448
+Gerlachstrasse;50.106189;8.548125
+Helmholtzstrasse;50.119156;8.706525
+Kirschwaldstrasse Parkplatz;50.146614;8.6814745
+Lichtensteinstrasse;50.127035;8.681863
+TÃ¶ngesgasse;50.113436;8.683869
+Rudolf-Hilferding-Strasse;50.1561928;8.6216144
+Eiserne Hand;50.0282917;7.8831673
+Zum Heidebuckel;50.0789481;8.601201
+Alt Erlenbach Halfpipe;50.203729;8.708658
+Alte Krifteler Strasse;50.102065;8.633361
+Antoninusstrasse;50.1577104;8.6412275
+Appelsgasse;50.1242269;8.6385691
+Eppsteiner Strasse Spielplatz;50.120186;8.663108907
+Heinrich-Plett-Strasse;50.169087;8.685936
+Im Sechsholder zwischen Hausnummer 54 und 56;50.102759;8.573865
+Im Waldfeld an der A661;50.136377;8.62216
+Muensterer Weg;50.10227;8.4853163
+Niederbornstrasse;50.1515003;8.6801946
+Richard-Wagner-Strasse;50.130045;8.687159
+Werner-Bockelmannstrasse suedlich;50.103838;8.581296
+B 40a;1;1
+Vilbeler Landstrasse;50.1585037;8.7421517
+VSG Flur 33 Niederursel;50.165925;8.621594
+Weiherstrasse;50.112257;8.695757
+A Sachsenhaeuser Ufer v. Eiserner Steg - Alte Bruecke;50.107263;8.682452
+Friedrich-Stoltze-Platz;50.11271355;8.679740414
+Goethestrasse;50.113993;8.674125
+Sandweg;50.119434;8.698119
+Schwalbacher Strasse;Schwalbacher Strasse;8.9156076
+Spohrstrasse;50.129023;8.69057
+Kirchplatz;50.125066;8.637353
+Kaulbachstrasse;50.099245;8.681977
+Ostendstrasse;50.111469;8.698977
+Am Hollgraben;50.1585625;8.7671909
+Florstaedter Strasse;50.1279198;8.7143603
+Friesengasse;50.1237774;8.6384295
+Luisenstrasse;50.122399;8.696697
+Werftstrasse;50.10167;8.662357
+Heilbronner Strasse;50.100906;8.654629
+Koselstrasse;50.1233944;8.691418
+Stegstrasse;50.1016191;8.6847109
+Esslinger Strasse;50.102429;8.663516
+Strassburger Str./Am Wildpfad;50.078499;8.607908
+Alt-Praunheim 81;50.1517076;8.622624998
+Mainzer Landstrasse Jaegerstrasse S-Bahnlinie;50.100383;8.615177
+Gagernstrasse;50.1212582;8.7137525
+Hostatostrasse;50.1020215;8.5468893
+Chlodwig-Poth-Anlage;50.1134539;8.5697917
+Heddernheimer Landstrasse;50.1588974;8.6516539
+Starenweg;50.103762;8.529314
+Berger Schuetzenhaus;50.159558;8.7782941
+Adolf-Haeuser-Strasse;50.1011953;8.5397414
+Am Fischstein Spielplatz;50.1363754;8.6279172
+Atzelberg  Gruenanlage;50.141525;8.722451
+Autogenstrasse;50.0939599;8.6059809
+Bruno-Asch-Anlage/Dalbergplatz;50.102238;8.545376
+Charlotte-Schiffler-Strasse;50.0962452;8.7230152
+Heinrich-Berbalk-Strasse;50.1906353;8.6679079
+Lachweg;50.16249;8.659446
+Oswaltstrasse;50.164833;8.625474
+Puetzerstrasse;50.1442461;8.6104762
+Im Bangert;50.1352527;8.9149933
+Am Honigberg;50.1721443;8.6986474
+Homburger Landstrasse Naturwiese;50.171301;8.679949
+Loensweg;50.569588;13.0160366
+Mittlerer Hasenpfad Spielplatz;50.09636585;8.684946731
+Geisenheimer Strasse;50.0844825;8.5708412
+  Umspannanlage;1;1
+Am Kapellenberg;50.117444;8.561122
+Am U-Bahnhof Ginnheim;50.142479;8.64755
+Arolser Strasse;50.140821;8.717666
+Arolser Strasse Bushaltestelle;50.140821;8.717666
+Breite Gasse;50.9721835;11.0324197
+Glashuettener Strasse (Breitlacher Spange);50.127249;8.606447
+Hubsteigerwiese;1;1
+Im Sechsholder vor Hausnummer 39 bis 47;50.10148;8.57475
+In der Fuchskaut Spielplatz;50.20185405;8.6779779
+Leipziger Ladengalerie;50.122477;8.645994
+Parkplatz am KGV Bockenheim;50.124998;8.638836
+Priessnitzstrasse;50.123939;8.618188
+Robert-Dissmann-Strasse;50.1239983;8.5663409
+Unter den Birken;50.090245;8.670378
+Walter-Hesselbach-Strasse;50.1426572;8.6998316
+Anna-Lindh-Allee;50.2001402;8.6482573
+Carl-Theodor-Reiffenstein-Platz;50.1140806;8.683990204
+Hasengasse;50.113436;8.683869
+Werner-Haustein-Strasse;50.0957826;8.571852
+An der Pfarrwiese;50.1814397;8.6955891
+Düsseldorfer Strasse;50.108874;8.661719
+Gruenstreifen am KGV Bockenheim;50.124998;8.638836
+Heilmannstrasse;50.156319;8.624696
+Landauer Strasse;50.096495;8.572845
+Marie-Curie-Strasse;50.172636;8.63825
+Roehrborngasse an den Tennisplaetzen;50.151682;8.754948
+Toni-Sender-Strasse;50.1239222;8.5684946
+Bickenbacher Weg;50.0796762;8.5992962
+Nesenstrasse;50.124056;8.6784745
+Elektronstrasse;50.095149;8.599269
+Engelsplatz;50.129858;8.732574
+Grempstrasse Spielplatz 464;50.12436185;8.642548909
+Harheimer Weg;50.1832511;8.6655815
+Hilligengasse;50.1004707;8.5485421
+KGV Taunusgaerten Niedwiesenstrasse;50.15211;8.647519
+Paul-Kirchhof-Platz an Schulbaracke;50.087665;8.506098
+Paul-Kornfeld-Weg;50.160208;8.6155687
+Rudolf-Hilferding-Strasse Tiefgarage 37;50.155449;8.620721
+  Gundelandstrasse;50.1562617;8.697115
+Reinganumstrasse;50.1210872;8.7126253
+Talstrasse;50.186149;8.645323
+Blankenburger Weg;50.092123;8.500302
+Feldbergstrasse;50.122307;8.662874
+Hoehenstrasse;50.1233104;8.7013039
+Deidesheimer Strasse;50.08705;8.574559
+Fasanenweg;50.187117;8.630831
+Ludwig-Jost-Allee;50.1138429;8.5465432
+Ratsweg noerdlich Brueckenkopf;1;1
+Junghofstrasse;50.1139933;8.6697526
+Korffstrasse;50.1843147;8.6915931
+Niddastrasse;50.1096334;8.6640275
+Walter-Leiske-Strasse;50.1460988;8.6727611
+Stiftstrasse;50.7165506;12.4326387
+Schwanheimer Strasse;50.0878334;8.6362423
+Espenstrasse;50.0965318;8.6108452
+Kirschbaumweg;50.126518;8.602973
+Sodener Strasse;50.1026261;8.630378
+Varrentrappstrasse;50.115636;8.646904
+Ben-Gurion-Ring Laermschutzwall;50.188609;8.661174
+Jean-Kempf-Weg;50.1419968;8.7604381
+Muehlgasse;50.122454;8.640032
+Schwarzerlenweg;50.8662048;6.999167
+Azaleenweg;50.1638473;8.6714541
+Steinbacher Hohl;50.1496202;8.618809
+Eberstadtstrasse;50.1454382;8.6123931
+Rosa-Luxemburg-Strasse;50.1614;8.634113
+Schleusenstrasse;50.102233;8.663008
+Homburger Landstrasse P+R Platz;50.171301;8.679949
+A Windthorststr. am Haus 94;50.112586;8.549151
+Franklinstrasse;50.116268;8.632086
+Städelstrasse;50.1039754;8.6776347
+Mainberg;50.099818;8.551371
+Kopernikusstrasse;50.10531;8.539891
+West-Hoechster-Strasse;50.0930973;8.4990234
+Baustrasse;50.092559;8.501251
+Farbenstrasse;50.080092;8.5169433
+Allerheiligentor;50.1134368;8.6940963
+Am Lohwald;50.1390283;8.6253006
+Rostocker Strasse;50.9872227;11.0465009
+Tucholskystrasse;50.092269;8.6863877
+Wed;50.099237;8.54663
+Breslauer Strasse am Bahndamm;50.091133;8.677249
+Hoechst Bahnhof Nordausgang;50.102185;8.542322
+Weisskirchener Weg Verkehrsgruen;50.166761;8.618957
+An der Ruhbank;50.1579336;8.7664311
+Georg-Buechner-Strasse Gruendreieck an der U-Bahn;50.196162;8.672277
+LÃ¶wengasse;50.127938;8.714325
+A Pfaffenwiese / Lenzenbergerstr;50.100685;8.502894
+Hilton Hotel Tiefgarage;1;1
+Paradiesgasse;50.1048404;8.68979
+Alpenroder Str.;50.1225508;8.5619394
+Konrad-Adenauer-Strasse;50.116351;8.687525
+Gladiolenstrasse;50.204217;8.664201
+Gruenanlage an der Valentin-Senger-Schule;50.142405;8.694793
+Heckenrosenweg;50.189471;8.643027
+Herweghstrasse;50.1514087;8.660421
+Letzter Hasenpfad;50.0837307;8.684215
+Renneroder Strasse Spielplatz;50.119983;8.570218988
+Sandplackenstrasse Spielplatz;50.14837265;8.620009219
+Sausee Fussweg;50.109542;8.531858
+Schlossstrasse;50.120144;8.64166
+Weinbergstrasse;50.076446;8.519409
+Grosse Niederwiese;1;1
+Grosse Rittergasse;50.1066265;8.6896188
+Thüringer Strasse;50.116833;8.701338
+A Steinhausenstr;50.0973812;8.7000246
+Haintalstrasse Umspannanlage;50.183264;8.687438
+Homburger Landstrasse am Bahnuebergang;50.171301;8.679949
+Ohmstrasse 16 und 16 a;50.117546;8.63624
+Am Hohlacker;50.1727606;8.700169
+Bornwiesenweg;50.5755141;9.6784434
+Grosse Bockenheimer Strasse;50.1145942;8.6745542
+Kalbächer Gasse;50.1144497;8.6752867
+Kleine Rittergasse;50.1055828;8.6902415
+Rechneigrabenstrasse;50.1112973;8.6908881
+Grosse Eschenheimer Strasse;50.1172393;8.6797673
+Hermesweg;50.118082;8.693179
+Weilburger Strasse;50.0979586;8.635189
+Berner Strasse;50.190485;8.658176
+Buerostadt zwischen Lyoner Strasse und Goldsteinstrasse;50.08229;8.628731
+Ginnheimer Hoehe;50.1301134;8.653362514
+Ginnheimer Hohl;50.1446207;8.6509238
+Graefstrasse/Kiesstrasse Spielplatz;50.118554;8.648316
+Grethenweg Spielplatz;50.0927901;8.689803254
+Huthmacherstrasse;50.0801482;8.5185865
+In den Biegen;50.180582;8.695494
+Juedischer Friedhof Bergen-Enkheim;50.16097185;8.739030225
+Kalbacher Stadtpfad Spielplatz;50.18684815;8.637902108
+Osthafenplatz;50.1105029;8.7122826
+Paul-Gerhardt-Ring;50.0791343;8.6410028
+Roter Weg;50.069431;8.519852
+Trifelsstrasse;50.0860267;8.6360453
+Florianweg;50.148057;8.74955
+Herbartstrasse;50.1215067;8.6962352
+Muckermannstrasse;50.1399834;8.6103944
+Orthstrasse;50.1261976;8.7100415
+Unterer Atzemer;50.1165797;8.7034431
+Henschelstrasse;50.1139773;8.708032
+Vatterstrasse;50.1324299;8.7362285
+A Weilbrunnstrasse;50.1551482;8.6965939
+Balduinstrasse;50.097753;8.715118
+Buerostadt zwischen Arabella Hotel und Woolworth;1;1
+Festeburgring;50.1476577;8.6919506
+Germaniastrasse;50.125841;8.70059
+Guenderrodestrasse;50.1042005;8.6448494
+Kasinostrasse;50.1030401;8.5492455
+Marquardstrasse;50.1208056;8.6093056
+Marschallwiese;50.096554;8.603598
+Roehrborngasse;50.1548947;8.7524829
+Steinauer Strasse;50.5725075;9.7002877
+Berliner Strasse;50.111632;8.681329
+Leinwebergasse;50.1234878;8.7710386
+Max-Bock-Strasse;50.1422675;8.6742723
+Neuenhainer Strasse;50.1026012;8.630542
+Turmstrasse;50.1309;8.71102
+Ziegelgasse;50.112778;8.682571
+Dahlmannstrasse;50.1204889;8.7071907
+Grüne Strasse;Grüne Strasse;7.3254698
+Manderscheider Strasse;50.9139858;6.923299
+Margarete-Weber-Anlage;50.1623427;8.664384855
+Schäfergasse;50.116144;8.684832
+Stephanstrasse;50.11652;8.683212
+Zur Charlottenburg;50.2015506;8.7111398
+Alter Harheimer Kirchplatz;1;1
+Fischerfeldstrasse;50.110337;8.6910506
+Kurt-Blaum-Strasse;50.1026484;8.5795208
+Mumm-von-Schwarzenstein-Strasse;50.1017891;8.5812826
+Saarbrücker Strasse;50.083194;8.577282
+Schwanthaler Strasse;50.100978;8.68142
+Schwarzbachstrasse;50.0857407;8.583406
+Werner-Bockelmann-Strasse;50.1038088;8.5811308
+Anne-Frank-Siedlung Eschersheimer Feld;50.159576;8.662624
+Kriegkstrasse;50.1046542;8.6389174
+Renettenstrasse  ;50.154443;8.7005247
+Am Bruennchen Sossenheimer Vorflutkanal;50.114548;8.561457
+Brueckhofstrasse;50.1103175;8.6883509
+Edwards-Sportfeld;50.166087;8.682637
+Hinter den Obergaerten;50.1577278;8.7618048
+Wilhelm-Floegel-Ring Spielplatz;50.19999775;8.66377285
+Alte Mainzer Gasse 15;50.1092687;8.680697054
+Alter Flugplatz Bonames/Kalbach;50.17636645;8.655739296
+Am Oberschlag;50.188285;8.6463587
+Engelsruhe;50.1140025;8.5349276
+Euckenstrasse;50.111218;8.541216
+Waldstrasse;50.5113504;7.828491006
+Weckmarkt;50.1103424;8.6859512
+Am Dachsberg;50.111218;8.541216
+Fasanenweg Spielplatz;50.187117;8.630831
+Johannesallee;50.1084645;8.5383551
+Lahnstrasse;50.101288;8.637753
+Verrohrter Steinbach;50.151406;8.625693
+Wasserhofstrasse;50.1051758;8.7217175
+Zur Frankenfurt;50.0867026;8.6124321
+Heinz-Herbert-Karry-Strasse;50.1390475;8.7170401
+Ludwig-Reinheimer-Strasse;50.1646708;8.6394886
+Taunusanlage;50.1140516;8.6696389
+Wehrstrasse;50.6936594;9.732238377
+Goerresstrasse;50.1298324;8.7347813
+Georg-Esser-Anlage;50.1514464;8.681172942
+Heidetraenkstrasse;50.1650116;8.628471
+Am Roemerhof;50.1076823;8.618175
+Kirchhofsweg;50.182339;8.664981
+A Strahlenberger Weg;50.1076641;8.7257502
+Allerheiligenstrasse;50.1133068;8.6928711
+Berger Ehrensaeule;1;1
+KGV Nordweststadt;50.15815045;8.605193471
+Maybachbruecke;50.160405;8.65112
+Messelweg;50.1427743;8.6074302
+Gruenanlage Am Bickenbacher Weg;50.079303;8.599356
+Heerstrasse P+R Platz;50.144315;8.605834
+Kalbacher Hauptstrasse Spielplatz;50.18684815;8.637902108
+Sondershausenstrasse;50.1000541;8.6194339
+Linnegraben;50.1001857;8.5968401
+Friedberger Weg Feldgehoelz;50.145064;8.706258
+Burgholzer Platz;50.1557804;8.668902309
+Am Hofgut;50.1467371;8.6132256
+Bornflossquelle;50.1743333;8.6356664
+Leonhardsgasse;50.1449592;8.7289046
+Nuerburgstrasse;50.088221;8.575501
+Wallauer Strasse;50.105418;8.6226076
+Rennbahnstrasse Ecke Niederraeder Landstrasse;50.085696;8.64987
+Westlicher Fussweg an der Goldsteinschule;1;1
+A Siemensstrasse;50.103518;8.695237
+A Weckmarkt / Mainblock;50.11032;8.685821
+Alt Sossenheim;50.1184758;8.5651697
+Am Lausberg;50.158435;8.6935979
+Appelsgasse Spielplatz Nr. 161;50.124215;8.638566
+Gruenstreifen am KGV Rollfeld;1;1
+Gutleutstrasse 147;50.1021686;8.6610109
+Haardtwaldstrasse;50.0868662;8.6367728
+Ludwig-Rehn-Strasse;50.0966964;8.6656098
+A Darmstädter Lndst. Mailänder Strasse;50.080023;8.692356
+Grosse Gallusstrasse;50.1116403;8.6743716
+Alfred-Delp-Strasse;53.2373465;10.437128
+Am Roten Graben;50.1389425;8.7757171
+Grazer Weg;50.0997393;8.734380523
+Insterburger Strasse;50.126876;8.626057
+Werner-Bockelmann-Strasse 69;50.1043561;8.58055625
+Adalbertstrasse;50.119532;8.645856
+Blankenheimer Strasse;50.9186342;6.9177495
+Schillerstrasse;50.115554;8.678663
+Am Siechen;50.0853447;8.5754143
+Brohltalstrasse;50.0886745;8.5770129
+Hainbuchenstrasse;50.084277;8.579735
+Zum Schaeferkoeppel;50.2060996;8.7087175
+Bremer Platz;50.1238796;8.6699362
+Musikantenweg;50.1207641;8.6976509
+Fried-Luebbecke-Anlage;50.1100235;8.681405086
+Geisenheimer Strasse  ;50.0844825;8.5708412
+Heinrich-Tessenow-Weg;50.1426469;8.6053947
+Im DÃ¶rner;50.157615;8.765875
+Offenbacher Landstrasse S-Bahnstation;50.099874;8.718647
+Schlesierstrasse;50.146907;8.758336
+A Rechneigrabenstrasse 14-18;50.11162;8.69059
+Eichwaldstrasse;50.125192;8.702861
+Falkstrasse;50.1252053;8.6447024
+Liebknechtstrasse;50.107315;8.544291
+Luisenplatz;50.12224;8.696638
+Lurgiallee;50.1697835;8.640577
+Petterweilstrasse;50.1273575;8.7049848
+Erzbergerstrasse;50.834964;12.8918471
+Leverkuser Strasse;50.099437;8.543714
+Wilhelm-Leuschner-Strasse;50.105125;8.669005
+Zehnmorgenstrasse;50.1591278;8.6572996
+Kaufunger Strasse Spielplatz Nr. 470;50.12309;8.63896
+Mainuferpark Deutschherrnufer Tiefkai oestlich;50.106176;8.699912
+Mainuferpark Deutschherrnufer Tiefkai westlich;50.106176;8.699912
+Ruesterstrasse;50.112999;8.663943
+Muehlbruchstrasse;50.1018664;8.6911867
+Im Woerth;50.157868;8.658187
+Am Martinszehnten   am Frischemarkt;50.18885;8.651918
+Carlo-Schmid-Platz;50.1205931;8.651081068
+Lamboystrasse;50.1427426;8.9379783
+Wächtersbacher Strasse;50.131826;8.7422745
+Bethmannstrasse;50.1103129;8.6765757
+Am Leonhardstor;50.108958;8.6798111
+Hausen Am Strandbad;50.134947;8.627002
+Bebraer Strasse;50.1345687;8.763617
+An der Hauptwache;50.1140226;8.6793326
+Andreaestrasse;50.126935;8.711654
+Heisterstrasse;50.1030622;8.6927386
+Wilhelmshoeherstrasse An der Rosenkranzkirche;50.110922;8.682127
+Goerlitzer Strasse Gruenstreifen entlang U-Bahn;50.071404;8.497886
+SchÃ¶ffenstrasse;50.091994;8.615004
+Bonifatiuspark;50.1776325;8.63994534
+Sedanstrasse;50.119157;8.770973
+An der Pfarrwiese Spielplatz;50.181621;8.695132
+Am Burghof;50.1794364;8.6584828
+August-Schanz-Strasse;50.1607129;8.6896409
+Birminghamstrasse Am Altersheim;50.102281;8.577922
+Boseweg;50.0808932;8.6143872
+Erlenbacher Stadtweg;50.1903419;8.7000134
+Heidestrasse;50.125192;8.702861
+Spessartstrasse;50.125426;8.709059
+Alois-Eckert-Strasse;50.078599;8.6430825
+Kurfuerstenstrasse;50.121405;8.643239
+Kaetcheslachpark Weiher;50.1348889;8.6193961
+Myliusstrasse;50.9507655;6.9309509
+Eberhardstrasse;50.126935;8.711654
+Alt Fechenheim 67-123;50.1255733;8.768662
+Burgfriedenstrasse;50.1232927;8.6083297
+Hainer Weg;50.0849686;8.6975813
+Luthmer Strasse Ecke Mainzer Landstrasse;50.100871;8.571373
+Neue Mainzer Strasse;50.1116639;8.6725322
+Rennbahnstrasse Ecke Bruchfeldstrasse;50.085696;8.64987
+Stegweidhof Vogelschutzgehoelz;1;1
+A Offenbacher Landstr / Ecke Buchrainstr;50.099874;8.718647
+Weidenbornstrasse;50.1312562;8.7071431
+Alt-Erlenbach;50.2101326;8.7012731
+Gerolsteiner Strasse;50.9177179;6.9208775
+Pfingstweidstrasse;50.115819;8.697075
+Am Siegesbaum;50.2062442;8.7077846
+Auf der Waldhohl;50.2073224;8.7064431
+Philipp-Schnell-Strasse;50.1820987;8.6920765
+Hedderichstrasse;50.1017784;8.6908526
+Reuterweg;50.1206526;8.670628
+Steinkleestrasse;50.1505679;8.6836641
+Distelrasen;50.1339922;8.7596071
+Harheimer Weg gegenueber Hausnummer 42 a;50.183054;8.676204
+Hausener Obergasse Ecke Bachmannstrasse;50.131597;8.625883
+Maulbeerstrasse;50.115426;8.704904
+Niedereschbacher Stadtweg Feldgehoelz;50.187709;8.682949
+Ostpreussenstrasse;50.145965;8.758099
+Weberstrasse;50.125324;8.687307
+Wilhelmshavener Strasse;50.102486;8.603969
+Am Spritzenhaus;50.132378;8.622731
+Kannengiessergasse;50.1111453;8.6863684
+Klappergasse;50.1052773;8.6907807
+Konstanzer Strasse;50.122012;8.766931
+Lohrparkschaenke;1;1
+Mendelssohnstrasse;50.116293;8.658267
+Schubertstrasse;50.11774;8.65908
+Westendstrasse;50.11537;8.657769
+Domstrasse;50.9754409;11.0219052
+Homburger Strasse;50.171301;8.679949
+Rahmhofstrasse;50.115691;8.6769094
+Fritzlarer Strasse;50.5686822;9.6599347
+Grosse Seestrasse;50.1195267;8.6460675
+Weingaertenanlage;50.1922347;8.6432085
+Hinter der Schoenen Aussicht;50.1100045;8.6887035
+Neue Niedenau;50.1114333;8.6628265
+Rathenauplatz-Goetheplatz;1;1
+RÃ¶delheimer Parkweg;1;1
+Am Mutzengraben;1;1
+Crutzenkirchweg;50.1748492;8.6366176
+Riedberg am Zubringer A661;50.177662;8.631949
+Windmühlstrasse;50.1049227;8.6707518
+Neumarkt;50.107827;8.584202
+Alter Wartweg;50.1554019;8.7428479
+Gilbrechtstrasse;50.1555862;8.7441222
+Schlosserstrasse;50.131044;8.681796
+Am Martinszehnten   am Sunflower;50.1893763;8.6561264
+Adam-Riese-Platz;50.10648215;8.655859255
+Adam-Riese-Strasse;50.1053813;8.6537338
+Mainkurstrasse;50.1246427;8.7085716
+Oberwiesenweg;50.1634374;8.7048651
+Palmengartenstrasse;50.1198626;8.6568116
+Blauglockenweg;50.1134447;8.5481981
+Züricher Strasse;50.1965813;8.652487
+Am Muehlgarten;50.1466003;8.6506998
+Am Geiersberg;50.8715206;12.09309006
+Paul-Arnsberg-Platz;50.11058685;8.699610106
+Anna-Lindh-Allee Feldgehoelz;50.203356;8.650546
+Karl-Marx-Strasse;50.129619;8.736013
+Simsonstrasse;50.120854;8.715231
+Hausener Obergasse;50.1309133;8.6261014
+Im Steinchen;50.1529846;8.7547013
+Am Riedsteg;50.2121198;8.7062051
+Klaus-Mann-Platz;50.11686555;8.685404259
+Altkoenigblick-Platz;50.1893079;8.6991804
+An der Ulmenklaue;50.1381186;8.7119361
+Gruenstreifen am KGV Schwanheim;50.077272;8.584456
+S-Bahnhof Zeilsheim;50.090388;8.507215
+VSG Am Eschbach;50.204345;8.673092
+Alt Roedelheim;50.1252337;8.6124502
+RÃ¶delheimer Bahnweg;50.12167;8.616223
+Westerbach A 66;50.130126;8.585596
+Hinterm Hain;50.2018043;8.7086368
+Oberrad an der S-Bahn;1;1
+Ginnheimer Hohl Kirchplatz;1;1
+Preungesheimer Strasse;50.1330441;8.7085435
+Vilbeler Strasse;50.1169893;8.6867297
+In den Grummetwiesen;50.1430621;8.6252862
+In den Schafgaerten;50.1861252;8.6922426
+Am Bonifatiusbrunnen;50.1749517;8.6401101
+Am Foersterpfad Spielplatz;50.0832602;8.6115525
+Am Nonnenhof;50.1579293;8.6928188
+Am Pohlsberg;50.1577806;8.7671348
+Emdener Strasse;50.1034279;8.604775
+Eulengasse;50.1326275;8.7156081
+Ferdinand-Scholling-Ring Spielplatz;50.105383;8.585190158
+Gotenstrasse;50.110193;8.541046
+Hofhausstrasse;50.1469965;8.7221002
+Hofheimer Strasse;50.0341451;10.5140451
+Speierlingsallee;50.0609798;8.4744426
+Corneliusstrasse;50.116786;8.658535
+Emil-von-Behring-Strasse;50.5477513;9.7116544
+Goldgewann;50.0782692;8.5149722
+Haendelstrasse;50.130142;8.684354
+Jean-Albert-Schwarz-Strasse;50.1477723;8.6253579
+Kostheimer Strasse;50.104333;8.6402969
+Motzstrasse;50.1262111;8.7383828
+Robert-Mayer-Strasse;50.116978;8.648023
+Wilhelm-Hauff-Strasse;50.9621822;11.3521939
+Am Buergerbrunnen;50.2027446;8.709272146
+Am Neufeld;50.112406;8.597195
+Kaufunger Strasse;50.1233347;8.6395527
+Ferdinand-Scholling-Ring;50.1055529;8.5853927
+Gruene Winkel;50.1080204;8.5825426
+Adam-Heinstadt-Strasse;50.2002416;8.6623236
+Funckstrasse;50.1130717;8.6317609
+Idsteiner Strasse Spielplatz;50.1041409;8.6342641
+Otto-Brenner-Strasse;50.123567;8.573554
+Im Geeren;50.1624289;8.6626253
+Louis-Pasteur-Strasse;50.1676051;8.6362999
+Therese-Herger-Anlage;50.1059855;8.585541
+Conrad-Weil-Gasse;50.1549267;8.7567655
+Ederstrasse;50.5347229;9.6778129
+Kreuznacher Strasse;50.1172469;8.6419966
+Felix-Wankel-Strasse;50.121918;8.741673
+Hafenstrasse;50.103505;8.658393
+Robert-Bosch-Strasse;50.119399;8.754152
+Kurhessenstrasse;50.1559285;8.6575031
+Spitzgartenweg;50.1754996;8.6395652
+Wilhelm-Schickard-Strasse;50.1058468;8.6533126
+Blütenweg;50.114113;8.549141
+Altenhoefer Allee;50.177615;8.629597
+Am Feldbahnmuseum;1;1
+Am Martinszehnten;50.1903693;8.6530106
+Vogesenstrasse;50.0848344;8.5761186
+Unter den Eschen;50.0915281;8.6711873
+Zur Kalbacher Hoehe;50.1755872;8.6419902
+Gundelandstrasse;50.1562617;8.697115
+Dieselstrasse;50.121926;8.745177
+Hermannstrasse;50.123024;8.683858
+Alois-Brisbois-Weg;50.1137347;8.5514776
+Soonwaldstrasse;50.1097547;8.5370519
+Wolf-Heidenheim Strasse;50.1270271;8.6012716
+Ginnheimer Muehlgasse;50.1464154;8.6493028
+Pfälzer Strasse;50.109447;8.537426
+Oberlindau;50.122345;8.6679127
+Galeriebauwerk Seckbach;50.149536;8.726027
+Konstabler Wache;50.114547;8.687946
+Am Gabelacker;50.1629299;8.6645899
+Baumertstrasse  Parkplatz;50.1202202;8.7731124
+Bei den Windraedern;1;1
+Gutleuthofweg;50.096269;8.6445425
+Radilostrasse;50.1254176;8.6113738
+Reichsburgstrasse;50.1243886;8.6120031
+Zum Bergwerk;50.1901488;8.6341948
+Dreikoenigsstrasse;50.1068603;8.6853659
+Schwedenkronenplatz;50.1163515;8.6865277
+A Zum Laurenburger Hof;50.1055541;8.701421
+Erlenseer Strasse;50.1599251;8.7631766
+Im Klausenstueck;50.1756556;8.6379817
+Im Triborn;50.1573155;8.7684019
+Koenigssteiner Strasse Ecke Cheruskerweg;50.11605;8.536839
+Schoenstrasse Spielplatz 444;50.102317;8.657562
+Bruesseler Strasse;50.110605;8.652061
+Rossbachstrasse;50.132795;8.623939
+Savignystrasse;50.1136389;8.6600833
+Wolf-Heidenheim-Strasse Ecke Am See;Wolf-Heidenheim-Strasse Ecke Am See;
+Brandhoefchen;50.1800562;8.6610665
+Weserstrasse;50.109285;8.668922
+Sudermannstrasse Spielplatz;50.140474;8.657174
+Voltastrasse Pocketpark Mitte;50.116983;8.636215
+Voltastrasse Pocketpark Ost;50.116983;8.636215
+Voltastrasse Pocketpark West;50.116983;8.636215
+Werner-Bockelmann-Strasse 117;50.10451525;8.58201384
+An der Wellenburg;50.1867744;8.6352571
+Falltorstrasse;50.128708;8.714655
+Friedberger Anlage Juedische Gedenkstaette;50.145064;8.706258
+Lange Strasse;50.111855;8.692771
+Olof-Palme-Strasse;50.1673306;8.6444991
+Heusinger Strasse;50.1073231;8.5794446
+Buber-Neumann-Weg;50.1645488;8.6407749
+Klingenweg;50.155152;8.745306
+Laermschutzwall Riedberg;1;1
+Pissaroweg Spielplatz;1;1
+Stichelstrasse;50.12734;8.6167467
+Weismüllerstrasse;50.1188285;8.7358706
+Zum Apothekerhof;50.1052701;8.6979298
+Huswertstrasse;50.1553935;8.6948912
+An den drei Hohen Spielplatz;50.1565499;8.695304696
+Franziska-Kessel-Strasse;50.1656787;8.6392105
+  Crutzenkirche;1;1
+Hermann-Waibel-Allee;50.1073173;8.534063
+Martin-Elsaesser-Weg;50.110547;8.698067
+Ortenberger Strasse;50.1268895;8.71767
+Hegelstrasse;50.2700718;10.947736
+Kantstrasse;50.119954;8.697594
+Ohmstrasse;50.8314779;8.8592107
+Praunheimer Kreisel;50.159319;8.621367
+Main-Taunus-Zentrum-P8;50.1187933;8.5266707
+Zum Laurenburger Hof;50.1059283;8.6973898
+Am Roemerhof Westseite;50.112549;8.607085
+Auf der Kuhr;50.1691287;8.6934814
+Kaiserkronenweg;50.1659112;8.6820826
+Kuhwaldstrasse;50.1175399;8.6413579
+Sebastian-Kneipp-Strasse;50.167911;8.640917
+Sonnentaustrasse;50.1659112;8.6820826
+Untermainanlage;50.1074088;8.6733139
+Am Weimarfloss;50.1460791;8.6508512
+Howaldtstrasse;50.1115507;8.7023311
+Leonardo-da-Vinci-Allee;50.1133423;8.6275814
+Renoirallee;50.1773117;8.6437131
+Lavendelweg;50.165119;8.684237
+Heinrich-Lanz-Allee;50.190412;8.6522882
+Johann-Georg-Fahr-Anlage;50.1933703;8.6467721
+Philipp-Schnellstrasse/Hessenpforte Denkmal;50.182445;8.691601
+Boskoopstrasse;50.157348;8.698496
+Martin-Luther-Platz;50.124093;8.697836
+Reichelstrasse Ecke Ginnheimer Landstrasse;50.139066;8.643877
+Montgolfier-Allee;50.1126201;8.6230795
+Kronthaler Strasse;50.105418;8.6226076
+Am Weisskirchener Berg / Am Hopfenbrunnen;50.1883836;8.6305592
+Grosse Friedberger Strasse;50.1158641;8.6862624
+A Vilbeler Landstr. 190 - 216;50.1531;8.745982
+Gummersbergstrasse;50.1453239;8.6844627
+Thudichumstrasse;50.1272078;8.6138941
+Franziusplatz;50.1072652;8.7134104
+Obermuehlgasse/Dorfwiesenweg;50.169074;8.618548
+Flutgraben;50.156676;8.687467
+A WilhelmshÃ¶herstrasse 50;50.14425;8.726692
+Sophie-Rosenthal-Strasse;50.158072;8.7607503
+Biebergasse;50.1141792;8.6771731
+Frauenhofstrasse;50.0867095;8.6490477
+Kruemmling;50.078353;8.515973
+Nord-Westpark;50.158824;8.75327
+Rosenbergerstrasse;50.1174521;8.6859276
+Am Bonifatiusbrunnen Spielplatz;50.1749684;8.640711482
+Im Nardholz;50.1633569;8.6636172
+Am Eiswerk;50.150598;8.7619029
+BÃ¶rneplatz;1;1
+Im Hain;50.189198;8.643674
+Adam-Leiss-Strasse;50.165356;8.638639
+Am Steinberg;50.20406;8.723622
+An den Muehlwegen;50.1670551;8.6428706
+In den Aspen;50.187327;8.696274
+Pariser Platz;50.108569;8.630833
+Ringelstrasse;50.125328;8.710064
+Auf dem Gleichen;50.103339;8.574627
+Ferdinand-Happ-Strasse;50.1148927;8.7186738
+Hermann-Wendel-Strasse;50.114715;8.6462091
+Hohe Strasse;50.159225;8.766528
+Kolberger Weg;50.09574;8.496115
+Kupferhammer;50.165626;8.643542
+A Saar Carree Niddastrasse;50.109361;8.663464
+Am Eichenloh;50.1397496;8.6469918
+Felsenbirnenweg;50.1123901;8.5501501
+Feuerwehrstrasse;50.144954;8.690452
+Gustav-Behringer-Strasse;50.1316697;8.7294907
+Lise-Meitner-Strasse;50.115599;8.640661
+Neue Boersenstrasse;50.1263637;8.6289641
+Polizeimeister-Kaspar-Strasse;50.1334715;8.6726241
+Steinkopfweg;50.0954586;8.48875
+Theodor-Neubuerger-Strasse;50.1682589;8.6404079
+Birminghamstrasse;50.102281;8.577922
+Gauguinweg;50.1768197;8.6425133
+Gebrueder-Wright-Strasse;50.1135898;8.6258848
+Matisseweg;50.1768123;8.6443072
+Meisengasse Parkhaus Boerse;50.1153167;8.675572696
+A Walter-Hesselbach-Strasse Spielplatz;50.142755;8.699982
+Am Borsdorfer Spielplatz;50.16506185;8.691708903
+Am Hasensprung;50.1852486;8.637313
+An den Drei Hohen;50.1566971;8.6959727
+Josef-Dey-Weg;50.1143052;8.5515035
+Karl-Wessendorft-Strasse;50.1576749;8.7618152
+Lindleystrasse;50.113151;8.7209
+Muthesiusweg;50.1440917;8.6075233
+Tilsiter Strasse;50.128503;8.627153
+Europa-Allee;50.108446;8.640135
+Jasminweg;50.165413;8.683909
+Max-von-Laue-Strasse;50.1734901;8.6289811
+Anton-Schlüter-Str.;50.192609;8.649173
+Baumhain suedlich der Geschwister-Scholl-Schule;1;1
+Georg-Allgaier-Str.;50.1917793;8.6479022
+Bonameser Strasse;50.1726988;8.6641792
+Herrenapfelstrasse Spielplatz 2 Renettenstrasse;50.154152;8.702164
+Kochstrasse Denkmal Gruene Sosse;50.100603;8.71857
+Schmickstrasse;50.111574;8.7222009
+Wilhelm-Gutbrod-Str.;50.1930162;8.6427174
+Horst-Schulmann-Strasse;50.109477;8.7002632
+Otto-Schott-Strasse;50.176662;8.628372
+Sonnemannstrasse;50.1108021;8.7025095
+Gravensteiner-Platz;50.15602705;8.698223966
+Martin-Elsaesser-Platz;50.1091672;8.697039889
+Oskar-von-Miller-Strasse;50.9854111;13.8301189
+Topographischer Weg 2;1;1
+Am Klarapfel;50.1555958;8.7000204
+Grommetstrasse;50.1525755;8.6629956
+Harheimer Ried;50.18395305;8.702801625
+Karl-Perotte-Platz;50.160168;8.645457
+Dietrich-Bonhoeffer-Weg;50.140139;8.704224
+Hildegard-von-Bingen-Weg;50.1681807;8.6423887
+Valentin-Senger-Strasse Spielplatz;50.13363565;8.700655172
+Am Hofgut Goldstein;50.0839534;8.6127376
+Geranienweg;50.165322;8.68274
+Xaver-Fendt-Str.;50.1907198;8.6493729
+Stresemannallee Bolzplatz;50.092455;8.671249
+KGV Nardholz und Miquel;1;1
+Kloppenheimer Gewann;1;1
+Triebstrasse;50.14618;8.75446
+Am Urselbach;50.1685328;8.6199652
+Liebfrauenstrasse Neue Kraeme;50.11327;8.680797
+Leopold-Ehrmann-Strasse;50.1579897;8.7592023
+Brunnenpfad;50.108489;8.584373
+Am Birnbaeumchen Preungesheim;50.154268;8.697631
+Am Lohrberg;50.146702;8.7237095
+Hoechst Am Strandbad;50.106759;8.5626216
+Karl-Ritscher-Anlage;50.1931439;8.6464299
+Spielwiese am Rhein-Main-Schnellweg;1;1
+In den Stegwiesen;1;1
+Alt-Schwanheim  von Rheinlandstrasse bis Martinskirch;50.084924;8.581385
+An der Seehecke;50.1251537;8.7639482
+Tannenwaldstrasse;50.083923;8.576389
+Zum Gottschalkhof;50.1054566;8.7030879
+Am Wäldchen;50.743838;8.4875523
+Elbinger Strasse;50.126308;8.626482
+Elisabeth-Winterhalter-Strasse;50.1674137;8.6400597
+Freihofstrasse;50.130315;8.712912
+Am Selzerbrunnen;50.1096338;8.5825383
+An der Nachtweide;50.166803;8.656075
+Cezanneweg;50.176066;8.643294
+Feldscheidenstrasse;50.1464226;8.685284
+Glauburgstrasse;50.1274532;8.6921161
+Martinskirchstrasse;50.0871959;8.5824895
+Melli-Beese-Strasse;50.9867472;6.8873804
+Speierling Allee Sossenheim;50.153006;8.762237
+Goldpeppingstrasse;50.1530166;8.6997088
+Graefendeichstrasse;50.1016358;8.7289748
+Heinz-Raspe-Platz;50.11267705;8.720232693
+Hildegard-Schaeder-Strasse;50.0947405;8.723755
+Malvenweg;50.166868;8.680988
+Rückertstrasse;50.111635;8.699733
+Willy-Brandt-Platz;50.108753;8.673012
+Kalkentalstrasse;50.1239244;8.6113019
+Karlstrasse;50.109308;8.663788
+Kettelerallee;50.1237842;8.7170756
+Mainuferpark Karpfenweg;50.099213;8.661726
+Am Brunnengarten;50.1904561;8.6370557
+Edingerweg Spielplatz;50.14125485;8.661316773
+Ingelheimer Strasse;50.0875271;8.5728384
+Josef-Eicher-Str.;50.1957437;8.6461745
+Rangenbergstrasse;50.1499677;8.7598387
+Am Hoechstock;50.162593;8.663999
+Am Wingert;50.4540668;8.6052059
+Francois-Mitterrand-Platz;50.1108549;8.665228267
+Josef-Bautz-Str.;50.1913763;8.6386721
+Altkoenigblick;50.1893079;8.6991804
+Am Grubweg;50.190182;8.641296
+Josef-Fenzl-Strasse;50.1112147;8.5508369
+Lange Meile;50.1897556;8.6398027
+Rheinlandstrasse/ Ecke Saarbruecker;50.082315;8.575208
+Gruenanlage am Dietrich-Bonhoeffer-Weg;50.140139;8.704224
+Kaetcheslachpark Mitte;50.181337;8.633484
+Topographischer Weg 1;1;1
+Alte Fahrt Ecke Bornweg;1;1
+Am Gerhardsrainweg;50.1959682;8.6660432
+Pariser Strasse;50.1085452;8.6301436
+Rotdornweg;50.9962483;11.0103834
+Annette-Kolb-Weg;50.1792811;8.6292612
+Eibenweg;50.167305;8.688131
+Gronauer Strasse;50.1284823;8.7081689
+Johann-Bayer-Weg;50.182254;8.626582
+Joseph-von-Fraunhofer-Strasse;50.177327;8.6269235
+Ludwig-Fulda-Weg;50.1784691;8.6303713
+Valentin-Senger-Strasse;50.1412453;8.7022073
+Berberitzenweg;50.1673288;8.6871302
+Praunheim zwischen Heerstrasse und verlaengerten Messelweg;50.143237;8.606962
+Markgrafenstrasse;50.123447;8.646055
+Colmarer Strasse;50.0823131;8.6192769
+Neckarstrasse;50.042229;8.473489
+Brahmsstrasse;50.129078;8.68814
+Buchsbaumweg;50.1664353;8.6872575
+Ribisweg;50.1668642;8.687139
+August-Euler-Strasse;50.1128019;8.622951
+Jahnstrasse;50.120527;8.683303
+Mittelweg;50.121304;8.683383
+Oberweg;50.122208;8.683725
+An den Bergen/Sitzplatz;1;1
+Casimirstrasse;50.15714;8.743386
+Blauwiesenweg;50.1660703;8.6415616
+Florastrasse;50.125449;8.640109
+Burnitzstrasse;50.097426;8.6733865
+Sossenheimer Weg  ;50.1155839;8.5570891
+Fallerslebenstrasse;50.1381836;8.6643136
+Bachforellenweg;50.1000081;8.6610497
+Rotfeder-Ring;50.0975314;8.6546619
+Alt Griesheim;50.0908791;8.6033484
+Denisweg;50.1055063;8.5989918
+Im Kreuzegut;50.1780945;8.6343483
+Konrad-Zuse-Strasse;50.176578;8.633984
+Grosse Fischerstrasse linker Innenhof;50.109777;8.686246
+Bertha-Pappenheim-Weg;50.1827844;8.6262852
+Magda-Spiegel-Weg;50.1826672;8.6257433
+A zwischen Biedenkopfer Weg und Breidensteiner Weg;50.120821;8.602706
+Alte Falterstrasse;50.0941169;8.6078651
+VSG An der Sandelmuehle;50.164462;8.64786
+Die Honigwiesen auf dem Honigberg;1;1
+VSG 1 Bonameser Strasse;50.165917;8.657112
+VSG 2 Deuil-la-Barre-Strasse;50.165917;8.657112
+VSG Auf der Steinkaute;50.223981;8.637773
+Am Hohen Ufer;1;1
+VSG 1 Deuil-La-Barre-Strasse;50.200485;8.674395
+Links der Kurve;1;1
+Reifenberger Strasse an der A 66;50.13051;8.611903
+Kaisergewann;1;1
+Ginnheim gegenueber Hadrianstrasse;50.142479;8.64755
+VSG An der Sandelmuehle noerdlich;50.164462;8.64786
+Fuchsloch;50.207022;8.702405
+VSG 2 Bonameser Strasse;50.165917;8.657112
+Hasenpfad;50.223364;8.677234
+Im Ohlenstueck;50.2037126;8.7032808
+VSG Am Kreuzberg;50.143049;8.760573
+Butterwecksgewann;1;1
+Riedbergplatz;50.1765967;8.628987829
+Hattersheimer Strasse;50.1079439;8.6372419

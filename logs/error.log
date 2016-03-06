@@ -11,3 +11,5 @@
 2016/03/06 10:35:46 [alert] 2556#0: lua_code_cache is off; this will hurt performance in /home/abregado/repos/lapis-viz/nginx.conf.compiled:16
 2016/03/06 14:04:38 [alert] 3759#0: lua_code_cache is off; this will hurt performance in /home/abregado/repos/lapis-viz/nginx.conf.compiled:16
 2016/03/06 14:08:26 [alert] 3787#0: lua_code_cache is off; this will hurt performance in /home/abregado/repos/lapis-viz/nginx.conf.compiled:16
+2016/03/06 14:29:58 [alert] 3963#0: lua_code_cache is off; this will hurt performance in /home/abregado/repos/lapis-viz/nginx.conf.compiled:16
+2016/03/06 14:57:35 [alert] 4120#0: lua_code_cache is off; this will hurt performance in /home/abregado/repos/lapis-viz/nginx.conf.compiled:16

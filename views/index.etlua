@@ -1,6 +1,7 @@
 <h2><%=heading%></h2>
 <p><%=text%></p>
-<input type="range" id="chanceSlider" class="vHorizon" min="0" max="6" step="1" style="width: 80%;">
+<p id='sliderval'>Slider Value</p>
+<input type="range" id="chanceSlider" class="vHorizon" min="0" max="13" step="1" style="width: 80%;">
 
 	
 <svg width="2000" height="800">
@@ -48,6 +49,7 @@ $( document ).ready(function() {
 <script>
 	$("#chanceSlider").change(function () {
 		var value = parseInt(this.value);
+		$('#sliderval').html("Hostings whose Host hosts "+value+" Hostings in total (or less)");
 		$('.datapoint').each(function(index) {
 			var rad = parseInt($(this).attr('basesize'));
 			if (rad < value) {
